@@ -24,28 +24,28 @@ Student ID: 11254373
 
 ## Screenshots
 ### Home pages
-![Home Page]("C:\Nitro_IA\DCIT_205_IA\screenshots\home.jpeg")
+![Home Page](https://github.com/Nitro-2210/DCIT_205_IA/blob/nitro-ia-demo/screenshots/home.jpeg)
 
 ### About pages
-![About Page]("C:\Nitro_IA\DCIT_205_IA\screenshots\about.jpeg")
+![About Page](https://github.com/Nitro-2210/DCIT_205_IA/blob/nitro-ia-demo/screenshots/about.jpeg)
 
 ### Admissions pages
-![Admissions Page]("C:\Nitro_IA\DCIT_205_IA\screenshots\Admissions.jpeg")
+![Admissions Page](https://github.com/Nitro-2210/DCIT_205_IA/blob/nitro-ia-demo/screenshots/Admissions.jpeg)
 
 ### Contact pages
-![Contact Page]("C:\Nitro_IA\DCIT_205_IA\screenshots\contact.jpeg")
+![Contact Page](https://github.com/Nitro-2210/DCIT_205_IA/blob/nitro-ia-demo/screenshots/contact.jpeg)
 
 ### Events pages
-![Events Page]("C:\Nitro_IA\DCIT_205_IA\screenshots\event.jpeg")
+![Events Page](https://github.com/Nitro-2210/DCIT_205_IA/blob/nitro-ia-demo/screenshots/event.jpeg)
 
 ### Programs pages
-![Programs Page]("C:\Nitro_IA\DCIT_205_IA\screenshots\programmes.jpeg")
+![Programmes Page](https://github.com/Nitro-2210/DCIT_205_IA/blob/nitro-ia-demo/screenshots/programmes.jpeg)
 
 ### Research pages
-![Research Page]("C:\Nitro_IA\DCIT_205_IA\screenshots\research.jpeg")
+![Research Page](https://github.com/Nitro-2210/DCIT_205_IA/blob/nitro-ia-demo/screenshots/research.jpeg)
 
 ### Complaint Form pages
-![Complaint Form Page](".\screenshots\complaint.jpeg")
+![Complaint Form Page](https://github.com/Nitro-2210/DCIT_205_IA/blob/nitro-ia-demo/screenshots/complaint.jpeg)
 
 ## What I've Learned
 Throughout the development of this project, I have gained valuable experience in:
