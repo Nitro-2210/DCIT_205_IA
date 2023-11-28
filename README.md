@@ -22,28 +22,28 @@ cd DCIT_205_IA
 
 ## Screenshots
 ### Home pages
-![Home Page]("\Nitro_IA\DCIT_205_IA\screenshots\home.jpeg")
+![Home Page](".\Nitro_IA\DCIT_205_IA\screenshots\home.jpeg")
 
 ### About pages
-![About Page]("\Nitro_IA\DCIT_205_IA\screenshots\about.jpeg")
+![About Page](".\Nitro_IA\DCIT_205_IA\screenshots\about.jpeg")
 
 ### Admissions pages
-![Admissions Page]("\Nitro_IA\DCIT_205_IA\screenshots\Admissions.jpeg")
+![Admissions Page](".\Nitro_IA\DCIT_205_IA\screenshots\Admissions.jpeg")
 
 ### Contact pages
-![Contact Page]("\Nitro_IA\DCIT_205_IA\screenshots\contact.jpeg")
+![Contact Page](".\Nitro_IA\DCIT_205_IA\screenshots\contact.jpeg")
 
 ### Events pages
-![Events Page]("\Nitro_IA\DCIT_205_IA\screenshots\event.jpeg")
+![Events Page](".\Nitro_IA\DCIT_205_IA\screenshots\event.jpeg")
 
 ### Programs pages
-![Programs Page]("\Nitro_IA\DCIT_205_IA\screenshots\programmes.jpeg")
+![Programs Page](".\Nitro_IA\DCIT_205_IA\screenshots\programmes.jpeg")
 
 ### Research pages
-![Research Page]("\Nitro_IA\DCIT_205_IA\screenshots\research.jpeg")
+![Research Page](".\Nitro_IA\DCIT_205_IA\screenshots\research.jpeg")
 
 ### Complaint Form pages
-![Complaint Form Page]("\Nitro_IA\DCIT_205_IA\screenshots\complaint.jpeg")
+![Complaint Form Page](".\Nitro_IA\DCIT_205_IA\screenshots\complaint.jpeg")
 
 ## What I've Learned
 Throughout the development of this project, I have gained valuable experience in:
