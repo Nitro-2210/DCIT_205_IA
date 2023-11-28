@@ -6,7 +6,7 @@ z-index: 999;
 width: 100%;
 color: white;
 height: auto;
-background-color: cyan;
+background-color: skyblue;
 top: 0;
 left: 0;
 
@@ -29,7 +29,19 @@ left: 0;
   flex-direction:row;
   text-align: center;
 }
-
+.container_image{
+  position: relative;
+ text-align: center;
+ color: white;
+}
+.centered{
+  position: absolute;
+ top: 50%;
+ left: 60%;
+ transform: translate(-50%, -50%);
+ color: white;
+ font-size: 40px;
+}
 #header{
   margin-top: 10px;
   margin-left: 70px;
@@ -47,7 +59,7 @@ left: 0;
   width: 95%;
   margin-bottom: 1%;
   height: auto;
-  border: 1px solid yellow;
+
 }
 #home{
 border: 1px solid white;
